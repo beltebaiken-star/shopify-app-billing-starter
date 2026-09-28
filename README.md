@@ -14,6 +14,12 @@ App billing becomes fragile when OAuth state, subscription status and feature ac
 
 This project models billing state as a server-side entitlement and includes a runnable test across ACTIVE, CANCELLED, PENDING and missing subscription states.
 
+## Visual proof
+
+The visual below summarizes the **client problem, architecture, validation logic, and delivery outcomes** for this sanitized technical case study.
+
+![Shopify App + Billing Starter visual proof](./screenshots/visual-proof-overview.png)
+
 ## Architecture
 
 ```mermaid
