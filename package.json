@@ -1,0 +1,8 @@
+{
+  "name": "shopify-app-billing-starter-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node demo/entitlement.mjs"
+  }
+}
